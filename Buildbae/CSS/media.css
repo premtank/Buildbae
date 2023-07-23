@@ -1,0 +1,83 @@
+/* Eyecatcher */
+@media only screen and (max-width:576px) {
+
+    #EyeCatcher .banner {
+        height: 150px;
+    }
+
+    #EyeCatcher .bg-title {
+        font-size: 30px;
+        height: 110px;
+    }
+}
+
+/* End of EyeCatcher */
+
+
+/* Announcement */
+@media only screen and (max-width:1200px) {
+    #Announcement {
+        overflow-y: scroll;
+    }
+}
+
+/* End of Announcement */
+
+
+/* Updates and onboarding */
+@media only screen and (max-width:576px) {
+    #bu .custom-container-h {
+        height: 340px;
+        overflow-y: scroll;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    #bu .Image {
+        display: flex;
+        justify-content: center;
+    }
+
+    #bu .row {
+        margin-bottom: 11px !important;
+    }
+
+}
+
+@media only screen and (max-width:370px) {
+    .updonb #os .card-content {
+        width: 190px;
+        height: 235px;
+    }
+
+    .updonb #os .Image
+    {
+        width: 65px;
+    }
+
+    .updonb #os .pos {
+        font-size: 12px;
+    }
+
+    .updonb #os .name{
+        font-size: 21px;
+        margin-bottom: 0px;
+    }
+
+    .updonb #os .des {
+        font-size: 16px;
+        padding: 0px 10px 10px 10px;
+    }
+
+    .updonb #os .Right {
+        top: 170px;
+    }
+    .updonb #os .Left {
+        top: 170px;
+    }
+}
+
+/* End of Updates and onboarding */
+
+@media only screen and (max-width:576px) {
+}
